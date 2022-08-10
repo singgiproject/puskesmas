@@ -10,7 +10,7 @@
 
 <body>
 
-  <nav>
+  <nav <?php time(); ?>>
     <ul>
       <li>
         <a href="">Menu 1</a>
