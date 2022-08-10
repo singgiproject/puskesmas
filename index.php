@@ -26,6 +26,8 @@
   <p>Menambahkan paragraf</p>
   <button>Tombol Kirim</button>
 
+  <footer>Copyright 2022</footer>
+
 </body>
 
 </html>
