@@ -10,6 +10,18 @@
 
 <body>
 
+  <nav>
+    <ul>
+      <li>
+        <a href="">Menu 1</a>
+        <a href="">Menu 2</a>
+        <a href="">Menu 3</a>
+        <a href="">Menu 4</a>
+        <a href="">Menu 5</a>
+      </li>
+    </ul>
+  </nav>
+
   <h1>Hello World!</h1>
 
 </body>
